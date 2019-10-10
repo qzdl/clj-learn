@@ -1,0 +1,2 @@
+* CFTBAT; Clojure For The Brave And True
+This is my first undertaking in Clojure, discovered with the search term

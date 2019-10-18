@@ -1,0 +1,8 @@
+* Learning Clojure
+
+** Cool things
+*** Set operations
+This union example from [[http://www.4clojure.com/problem/8#prob-title][4Clojure]]
+#+begin_src
+(= __ (clojure.set/union #{:a :b :c} #{:b :c :d}))
+#+end_src

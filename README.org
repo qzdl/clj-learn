@@ -1,7 +1,7 @@
 * Learning Clojure
 
 ** Cool things
-*** Set operations
+*** Set operations ~[clojure.set]~
 This union example from [[http://www.4clojure.com/problem/8#prob-title][4Clojure]]
 #+begin_src
 (= __ (clojure.set/union #{:a :b :c} #{:b :c :d}))

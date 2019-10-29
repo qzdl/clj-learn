@@ -1,5 +1,18 @@
 * Learning Clojure
 
+** General Structure
+*** CFTBaT; Clojure For The Brave and True
+[[][]]
+
+*** Hello-CLJS
+An exploration of basic ClojureScript concepts, and a look at the ~clj~ workflow with ~deps.edn~ (as opposed to lein)
+- javascript interop
+- referencing javascript libraries
+- cljsJS????
+
+*** PoTD; Parens of the Dead
+[[http://www.parens-of-the-dead.com/][~ A screencast series of zombie-themed games written with Clojure and ClojureScript. ~]]
+
 ** Cool things
 *** Set operations ~[clojure.set]~
 This union example from [[http://www.4clojure.com/problem/8#prob-title][4Clojure]]
